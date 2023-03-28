@@ -1,0 +1,11 @@
+Equipment Name,Equipment Type,OP #1,OP #2,OP #3,OP #4,OP #5
+Atomizer,SE,0,60,,,
+Dehydrator,SE,0,10,,,
+Dryer,SE,0,30,,,
+Crusher,CE,0,15,20,,
+Classifier,CE,0,15,25,,
+Magnetic Separator,SE,0,10,,,
+Reduction Furnace,NSE,75,,,,
+Blender,CE,0,6,10,,
+Water Cooling Tower,CE,0,25,50,,
+Nitrogen Generator,CE,0,20,30,40,55
